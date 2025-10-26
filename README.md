@@ -20,7 +20,7 @@ Email Me 👉 ✉️ **Alecreez6@gmail.com** For Collaboration/Project or Anythi
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?alec-reez66=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 💻 Tech Stack:
